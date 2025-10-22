@@ -29,3 +29,12 @@ Then install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+```
+---
+
+### 🧰 Setup and Run (VS Code Terminal)
+```bash
+py -3.11 -m venv venv
+venv\Scripts\activate
+python main.py
