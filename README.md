@@ -1,5 +1,5 @@
 # 🐒 Monkey Meme Detector
-
+//python main.py
 A fun, real-time computer vision project that detects **hand gestures** and **facial expressions** using your webcam — and switches between monkey meme reactions depending on your pose.
 
 Built with **OpenCV** and **MediaPipe**, the detector recognizes 3 main gestures:
