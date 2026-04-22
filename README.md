@@ -3,10 +3,12 @@
 A fun, real-time computer vision project that detects **hand gestures** and **facial expressions** using your webcam — and switches between monkey meme reactions depending on your pose.
 
 Built with **OpenCV** and **MediaPipe**, the detector recognizes 3 main gestures:
-- 🧠 **Thinking** (when you touch your mouth)
+- 😐 **Normal** (default state)
 - 💡 **Idea** (when you raise a finger)
 - 😁 **Smile** (when you smile)
-- 😐 **Normal** (default state)
+- 🧠 **Thinking** (when you touch your mouth)
+- 👉🧠👈 **Think Monkey Think** (when both index fingers point to the temples)
+
 
 Each gesture dynamically triggers a different meme image on the right side of the screen.
 
